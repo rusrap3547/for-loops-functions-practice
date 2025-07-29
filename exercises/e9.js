@@ -6,7 +6,7 @@
 
 export function getClientsWithBalanceOverOneHundred(array) {
   // Your code goes here...
-
+  
 }
 
 
