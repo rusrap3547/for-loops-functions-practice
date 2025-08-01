@@ -12,4 +12,4 @@ function getNumbersWithSquareRoots(target:number): number[] {
     return sqrtNumbers;
 }
 
-getNumbersWithSquareRoots(17)
+getNumbersWithSquareRoots(17);
